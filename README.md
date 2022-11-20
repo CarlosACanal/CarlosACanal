@@ -12,4 +12,5 @@
   <img align="center" alt="js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img align="center" alt="ts" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
   <img align="center" alt="angular" src="https://img.shields.io/badge/Angular-red?style=for-the-badge&logo=angular&logoColor=white" />
+  <img align="center" alt="python" src="https://img.shields.io/badge/python-yellow?style=for-the-badge&logo=python&logoColor=blue" />
 </div><br/>
