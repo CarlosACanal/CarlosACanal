@@ -1,6 +1,6 @@
 ## Olá! Eu sou o Carlos Canal 👨‍💻
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-9146FF?style=for-the-badge&logo=linkedin&logoColor=white)](https://twitch.tv/fragabr)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-9146FF?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlos-canal/)
 
 ![Carlos GitHub stats](https://github-readme-stats.vercel.app/api?username=CarlosACanal&show_icons=true&theme=dracula&count_private=true)
 
