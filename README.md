@@ -2,8 +2,6 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-9146FF?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlos-canal/)
 
-![Carlos GitHub stats](https://github-readme-stats.vercel.app/api?username=CarlosACanal&show_icons=true&theme=dracula&count_private=true)
-
 ## Tecnologias que eu tenho conhecimento: 
 
 <div style="display: inline_block">
