@@ -12,3 +12,5 @@
   <img align="center" alt="angular" src="https://img.shields.io/badge/Angular-red?style=for-the-badge&logo=angular&logoColor=white" />
   <img align="center" alt="python" src="https://img.shields.io/badge/python-yellow?style=for-the-badge&logo=python&logoColor=blue" />
 </div><br/>
+
+## Conheça um dos meus projetos que está no ar, <a href="https://projetovalorant.vercel.app" target="_blank">clique aqui</a>
